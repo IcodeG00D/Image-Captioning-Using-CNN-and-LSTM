@@ -28,8 +28,7 @@ Image captioning is the task of generating a descriptive sentence for a given im
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/image-captioning-tensorflow.git
-    cd image-captioning-tensorflow
+    https://github.com/IcodeG00D/Image-Captioning-Using-CNN-and-LSTM.git
     ```
 
 2. Install the required packages:
