@@ -8,10 +8,6 @@ This project demonstrates how to build an image captioning model using TensorFlo
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Model Architecture](#model-architecture)
-- [Training](#training)
-- [Prediction](#prediction)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
